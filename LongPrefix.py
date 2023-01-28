@@ -17,6 +17,6 @@ def long(strs):
    return lcp
 
 strs=["flower","flow","fly"]
-out=long(strs)
-print(out)
+final=long(strs)
+print(final)
 
